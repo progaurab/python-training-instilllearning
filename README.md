@@ -1,3 +1,10 @@
+# Basic Git Commands
+'''shell
+   $ git add .
+   $ git commit -m "write some message"
+   $ git push 
+'''
+
 # python-training
 This repository has been created for Python Training at Instill Learning.
 
