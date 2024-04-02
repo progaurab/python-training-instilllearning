@@ -24,6 +24,3 @@ class BankAccount:
     print(account1.withdraw(4000))
     print(account2.withdraw(4000))
 
-
-    100?? 
-    small ?
